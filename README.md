@@ -52,7 +52,7 @@ The dataset is provided by [Figure Eight](https://www.figure-eight.com/data-for-
     - By the package, `nltk`, builds a text processing pipeline which:
         - Cleans and tokenizes each message into seperated words
         - Lemmatizes them to further reduce the complexity of features
-        - Vectorizes the text data by computing the Bag of Words AND TF-IDF values for feature extraction
+        - Vectorizes the text data by computing the Bag of Words and TF-IDF values for feature extraction
         - Extracts the text feature with the custom tranformer, `StartingVerbExtractor`
         - Performs feature union of the above feature extraction processes
     - Combine the feature extraction pipeline with the `AdaBoostClassifier`
@@ -142,7 +142,7 @@ pip install -r requirements.txt
     
 
 
-## 6.Screenshots of model training results
+## 6. Screenshots of model training results
     
 - Below shows the verbosity of the grid search process, the best found parameters and metrics of the model refitted with the best parameters respectively.
     
