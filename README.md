@@ -3,15 +3,15 @@
 
 
 ## Table of Contents
-1. [Project Overview](#project-verview)
-2. [Project Details](#project-details)
-3. [File Structure & Description](#File-Structure-&-Description)
-4. [Instructions for getting started](#Instructions-for-getting-started)
-        4.1. [Cloning](#Cloning)
-        4.2. [Dependencies](#Dependencies)
-        4.3. [Executions](#Execution)
-5. [Screenshots of web application](#screenshots-of-web-application)
-6. [Screenshots of model training results](#screenshots-of-model-training-results)
+1. [Project Overview](#1-project-overview)
+2. [Project Details](#2-project-details)
+3. [File Structure & Description](#3-file-structure--description)
+4. [Instructions for getting started](#4-instructions-for-getting-started)
+	1. [Cloning](#41-cloning)
+	2. [Dependencies](#42-dependencies)
+	3. [Executions](#43-executions)
+5. [Screenshots of web application](#5-screenshots-of-web-application)
+6. [Screenshots of model training results](#6-screenshots-of-model-training-results)
 
 
 
